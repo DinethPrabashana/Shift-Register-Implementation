@@ -19,4 +19,4 @@ A control register enables the control over the shift register. When to except d
 ![RTL Diagram ](https://github.com/DinethPrabashana/Shift-Register-Implementation/blob/main/Controlled%20Shift%20Register/Circuit%20Diagrams/RTL%20view.png)
 
 ### reference 
-"Digital Computer Electronics" Albert Paul Malvino & Jerald A Brown
+- **"Digital Computer Electronics"** Albert Paul Malvino & Jerald A Brown.
