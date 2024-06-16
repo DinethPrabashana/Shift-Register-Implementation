@@ -14,3 +14,6 @@ A control register enables the control over the shift register. When to except d
 
 ## left shift register
 ![left shift register](URL)
+
+## RTL Diagram 
+![RTL Diagram ](URL)
